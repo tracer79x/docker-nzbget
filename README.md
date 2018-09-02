@@ -7,6 +7,8 @@
 
 Fork of [LinuxServer.io][linuxserverurl]'s NZBGet repo
 
+------------------------------------------------------
+
 The [LinuxServer.io][linuxserverurl] team brings you another container release featuring easy user mapping and community support. Find us for support at:
 * [forum.linuxserver.io][forumurl]
 * [IRC][ircurl] on freenode at `#linuxserver.io`
